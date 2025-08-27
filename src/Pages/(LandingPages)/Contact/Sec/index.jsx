@@ -27,7 +27,7 @@ const ContactPage = () => {
       });
 
       if (response.ok) {
-        toast.success("Message sent successfully 🎉"); //
+        toast.success("Message sent successfully"); //
         setFormData({ name: "", email: "", message: "" });
       } else {
         toast.error("Failed to send message ");

@@ -1,6 +1,5 @@
 import React from "react";
-import SpotlightCard from "../../../../../Components/SpotlightCard"; // adjust path if needed
-
+import SpotlightCard from "../../../../../Components/SpotlightCard"; 
 const SixthSection = () => {
     return (
         <div
