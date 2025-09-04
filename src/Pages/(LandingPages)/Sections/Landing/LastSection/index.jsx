@@ -45,11 +45,11 @@ const ContactSection = () => {
 
         {/* Phone */}
         <a
-          href="tel:+13105549805"
+          href="tel:+18352241629"
           className="text-green-400 font-bold text-lg mb-6 flex items-center justify-center gap-2 cursor-pointer hover:text-white transition"
         >
           <Phone className="w-4 h-4" />
-          +131 055 49805
+          +1 (835) 224-1629
         </a>
 
         {/* Reusable Social Icons */}

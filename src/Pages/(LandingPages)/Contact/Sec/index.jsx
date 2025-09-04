@@ -137,11 +137,11 @@ const ContactPage = () => {
           </a>
 
           <a
-            href="tel:+13105549805"
+            href="tel:+18352241629"
             className="flex items-center gap-3 cursor-pointer hover:text-green-400 transition"
           >
             <FaPhoneAlt className="text-green-400" />
-            <span className="text-white">+1 310-554-9805</span>
+            <span className="text-white">+1(835) 224-1629</span>
           </a>
         </Motion.div>
 
@@ -156,14 +156,14 @@ const ContactPage = () => {
             <FaEnvelope size={24} />
           </a>
           <a
-            href="https://wa.me/13105549805"
+            href="https://wa.me/18352241629"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition"
           >
             <FaWhatsapp size={24} />
           </a>
-          <a href="tel:+13105549805" className="hover:text-white transition">
+          <a href="tel:+18352241629" className="hover:text-white transition">
             <FaPhoneAlt size={24} />
           </a>
           <a
