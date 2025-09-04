@@ -16,14 +16,38 @@ const Footer = () => {
         </div>
 
         {/* Quick Links */}
-        <div>
-          <h2 className="text-lg font-semibold text-white mb-4">Quick Links</h2>
-          <ul className="space-y-2 text-sm">
-            <li><Link to="/" className="hover:text-green-400">Home</Link></li>
-            <li><Link to="/services" className="hover:text-green-400">Services</Link></li>
-            <li><Link to="/contact" className="hover:text-green-400">Contact</Link></li>
-          </ul>
-        </div>
+       <div>
+  <h2 className="text-lg font-semibold text-white mb-4">Quick Links</h2>
+  <ul className="space-y-2 text-sm">
+    <li>
+      <Link 
+        to="/" 
+        onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+        className="hover:text-green-400"
+      >
+        Home
+      </Link>
+    </li>
+    <li>
+      <Link 
+        to="/services" 
+        onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+        className="hover:text-green-400"
+      >
+        Services
+      </Link>
+    </li>
+    <li>
+      <Link 
+        to="/contact" 
+        onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+        className="hover:text-green-400"
+      >
+        Contact
+      </Link>
+    </li>
+  </ul>
+</div>
 
        {/* Contact & Social */}
 <div>
