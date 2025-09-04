@@ -7,7 +7,7 @@ const ContactIcons = () => {
 
   const icons = [
     {
-      href: "https://wa.me/18352241629", // WhatsApp
+      href: "https://wa.me/13105549805", // WhatsApp
       bg: "bg-green-500",
       Icon: MessageCircle,
     },

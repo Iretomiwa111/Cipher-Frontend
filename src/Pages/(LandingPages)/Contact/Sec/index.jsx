@@ -156,7 +156,7 @@ const ContactPage = () => {
             <FaEnvelope size={24} />
           </a>
           <a
-            href="https://wa.me/18352241629"
+            href="https://wa.me/13105549805"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition"
