@@ -7,12 +7,12 @@ const ContactIcons = () => {
 
   const icons = [
     {
-      href: "https://wa.me/13105549805", // WhatsApp
+      href: "https://wa.me/16593040172", // WhatsApp
       bg: "bg-green-500",
       Icon: MessageCircle,
     },
     {
-      href: "tel:+18352241629", // Call
+      href: "tel:+16593040172", // Call
       bg: "bg-gray-500",
       Icon: Phone,
     },

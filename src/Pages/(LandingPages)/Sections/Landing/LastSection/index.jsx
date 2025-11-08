@@ -7,7 +7,7 @@ const ContactSection = () => {
   return (
     <div className="w-full flex justify-center items-center px-6 py-20 bg-[rgb(17,40,41)]">
       <div className="w-full max-w-4xl rounded-2xl p-10 text-center bg-gradient-to-r from-[rgb(10,22,24)] to-[rgb(0,41,40)] shadow-lg shadow-[rgb(0,41,40)]">
-        
+
         {/* Small label */}
         <div className="inline-flex items-center gap-2 px-4 py-1 mb-6 text-sm rounded-full border border-gray-600">
           <span className="w-2 h-2 rounded-full bg-green-500"></span>
@@ -45,11 +45,11 @@ const ContactSection = () => {
 
         {/* Phone */}
         <a
-          href="tel:+18352241629"
+          href="tel:+16593040172"
           className="text-green-400 font-bold text-lg mb-6 flex items-center justify-center gap-2 cursor-pointer hover:text-white transition"
         >
           <Phone className="w-4 h-4" />
-          +1 (835) 224-1629
+          +1 (659) 304-0172
         </a>
 
         {/* Reusable Social Icons */}
