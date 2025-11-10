@@ -27,7 +27,7 @@ const SecSection = () => {
             className="inline-flex items-center border border-gray-400 rounded-lg px-3 py-2 shadow-md w-fit mb-4"
           >
             <img src="/logo2.svg" alt="Logo" className="w-6 h-6 mr-2" />
-            <p className="text-lg">Welcome to CiphetVibeShadow</p>
+            <p className="text-lg">Welcome to CipherVibeShadow</p>
           </Motion.div>
 
           <h1 className="text-4xl font-bold mb-4">Connect with us</h1>
